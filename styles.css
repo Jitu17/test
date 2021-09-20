@@ -1,0 +1,14 @@
+/* Register */
+
+#register{
+  text-align: center;
+  padding:100px;
+}
+.form-register{
+  text-align: left;
+}
+
+/* spacing for image icon */
+.pad{
+  padding: 100px;
+}
